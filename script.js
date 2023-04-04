@@ -1,4 +1,4 @@
-"use strict";
+
 //Text content
 const message = document.querySelector(".message");
 const scoreText = document.querySelector(".score");
